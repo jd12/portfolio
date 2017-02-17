@@ -11,7 +11,7 @@
 body {
     font-family: 'Lato', sans-serif;
     color:#2d3c49;
-    font-weight:300;
+    font-weight: 300;
 }
 
 .text-muted {
@@ -19,7 +19,7 @@ body {
 }
 
 .text-thin {
-    font-weight:500;
+    font-weight: 100;
 }
 
 .description {
