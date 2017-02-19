@@ -1,5 +1,5 @@
 *{
-	outline: 1px solid red !important;
+/*	outline: 1px solid red !important;*/
 }
 
 * {
@@ -12,6 +12,18 @@ body {
     font-family: 'Lato', sans-serif;
     color:#2d3c49;
     font-weight: 300;
+}
+
+hr {
+	height:5px;
+	color:#7d97ad;
+	background-color:#7d97ad;
+}
+
+.vertical-center {
+	display: flex;
+	align-items:center;
+	justify-content:center;
 }
 
 .text-muted {
